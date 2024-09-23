@@ -1,0 +1,90 @@
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+}
+
+.heading {
+    margin-top: 80px;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.button {
+    text-align: center;
+    width: 50px;
+    padding: 20px;
+    margin: 2px 5px;
+    border-radius: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.row {
+    margin: 10px 0;
+    text-align: center;
+}
+
+.input {
+    text-align: end;
+    width: 240px;
+    font-size: 25px;
+    margin: 2px;
+    padding: 10px 2px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+/*#delete{
+    background-color:black;
+    color: white;
+}*/
+#equal {
+    width: 110px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#clear {
+    width: 110px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#equal:hover {
+    width: 110px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+#clear:hover {
+    width: 110px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+#operator {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#operator:hover {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
