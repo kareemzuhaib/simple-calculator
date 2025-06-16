@@ -10,7 +10,7 @@ A basic yet visually appealing calculator built using **HTML**, **CSS**, and **J
 - Custom background image
 
 ## 🖥️ Live Demo
-[View Calculator](https://kareemzuhaib.github.io/simple-calculator/) <!-- Replace with your live link -->
+[View Calculator](https://kareemzuhaib.github.io/simple-calculator/)
 
 ## 🛠️ Tech Stack
 - HTML
