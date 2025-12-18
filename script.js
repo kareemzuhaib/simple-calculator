@@ -22,11 +22,17 @@ Array.from(buttons).forEach(button => {
         }
 
         else {
-            console.log(e.target)
-            string = string + e.target.innerHTML;
+            let value = e.traget.innerHTML:
+
+            if (value === 'X'){
+                value = '*';
+            }
+
+            string = string + value;
             document.querySelector('input').value = string;
         }
 
     })
     
+
 })
