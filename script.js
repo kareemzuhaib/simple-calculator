@@ -22,7 +22,7 @@ Array.from(buttons).forEach(button => {
         }
 
         else {
-            let value = e.traget.innerHTML:
+            let value = e.target.innerHTML;
 
             if (value === 'X'){
                 value = '*';
