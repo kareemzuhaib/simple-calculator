@@ -1,4 +1,4 @@
-# Simple Calculator 🧮
+# Simple Calculator 🧮 
 
 A basic yet visually appealing calculator built using **HTML**, **CSS**, and **JavaScript** with a custom background image for a modern look.
 
